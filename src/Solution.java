@@ -1,4 +1,4 @@
-public class Solutiona/*
+/*
 Цепочка наследования
 Расставь правильно "цепочку наследования" в классах: Pet (домашнее животное), Cat (кот), Dog (собака).
 
@@ -44,5 +44,4 @@ public class Solution {
     public class Dog extends Pet{
 
     }
-} {
 }
